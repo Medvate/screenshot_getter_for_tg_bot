@@ -1,0 +1,1 @@
+# screenshot_getter_for_tg_bot
