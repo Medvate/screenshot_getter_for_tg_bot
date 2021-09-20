@@ -1,0 +1,4 @@
+certifi==2021.5.30
+Pillow==8.3.2
+selenium==3.141.0
+urllib3==1.26.6
